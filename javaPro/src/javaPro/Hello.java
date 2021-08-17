@@ -7,7 +7,8 @@ public class Hello {
 		System.out.println("hello world~");
 
 		// 새로운 팀원 A 추가 작업
-		System.out.println("hi~");
+		System.out.println("update hi~");
+		System.out.println("update hi~");
 
 	}
 
